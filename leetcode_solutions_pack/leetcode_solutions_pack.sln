@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{D736DD52-7B70-4E1E-AC16-2C73A41E1976}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{D736DD52-7B70-4E1E-AC16-2C73A41E1976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{E0FE232C-BC05-4E32-9CD2-AB512DC1A3DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D736DD52-7B70-4E1E-AC16-2C73A41E1976}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D736DD52-7B70-4E1E-AC16-2C73A41E1976}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D736DD52-7B70-4E1E-AC16-2C73A41E1976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0FE232C-BC05-4E32-9CD2-AB512DC1A3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FE232C-BC05-4E32-9CD2-AB512DC1A3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FE232C-BC05-4E32-9CD2-AB512DC1A3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FE232C-BC05-4E32-9CD2-AB512DC1A3DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
