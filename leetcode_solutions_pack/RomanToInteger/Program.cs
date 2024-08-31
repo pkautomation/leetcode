@@ -83,3 +83,4 @@ int RomanToInt(string s)
 }
 
 if (RomanToInt("MCMLXXXIX") != 1989) throw new Exception("Epic fail");
+if (RomanToInt("MM") != 2000) throw new Exception("Epic fail");
